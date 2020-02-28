@@ -1,0 +1,25 @@
+{
+  "name": "syab-nodejs-winston",
+  "version": "1.0.0",
+  "description": "playing around with winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syab/syab-nodejs-winston.git"
+  },
+  "keywords": [
+    "winston"
+  ],
+  "author": "syab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syab/syab-nodejs-winston/issues"
+  },
+  "homepage": "https://github.com/Syab/syab-nodejs-winston#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
